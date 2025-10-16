@@ -42,7 +42,7 @@ DocuMind is an advanced **AI Document Search and Conversational Retrieval System
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/documind.git
+git clone https://github.com/8090vikas/documind.git
 cd documind
 
 # Backend setup
@@ -188,7 +188,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/documind.git
+git clone https://github.com/8090vikas/documind.git
 
 # Create a virtual environment
 python -m venv venv
@@ -226,7 +226,7 @@ DocuMind transforms static, text-heavy documents into living knowledge assistant
 
 **⭐ Star this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/documind.svg?style=social&label=Star)](https://github.com/8090vikas/documind)
+[![GitHub stars](https://img.shields.io/github/stars/8090vikas/documind.svg?style=social&label=Star)](https://github.com/8090vikas/documind)
 [![GitHub forks](https://img.shields.io/github/forks/8090vikas/documind.svg?style=social&label=Fork)](https://github.com/yourusername/8090vikas/fork)
 
 Made with ❤️ by [Vikas Gupta](https://github.com/8090vikas)
