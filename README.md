@@ -226,9 +226,9 @@ DocuMind transforms static, text-heavy documents into living knowledge assistant
 
 **⭐ Star this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/documind.svg?style=social&label=Star)](https://github.com/yourusername/documind)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/documind.svg?style=social&label=Fork)](https://github.com/yourusername/documind/fork)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/documind.svg?style=social&label=Star)](https://github.com/8090vikas/documind)
+[![GitHub forks](https://img.shields.io/github/forks/8090vikas/documind.svg?style=social&label=Fork)](https://github.com/yourusername/8090vikas/fork)
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/8090vikas)
 
 </div>
